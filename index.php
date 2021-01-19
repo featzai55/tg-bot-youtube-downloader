@@ -10,7 +10,7 @@ use Smoqadam\Youtube;
 
 $api_token = '1583141561:AAFoGd7qSMjiUovg-lMV2p2zL4gFOBSH9-Y';
 
-$tg = new Telegram($api_token);
+$tg = new Telegram($1583141561:AAFoGd7qSMjiUovg-lMV2p2zL4gFOBSH9-Y);
 $y = new Youtube();
 
 
